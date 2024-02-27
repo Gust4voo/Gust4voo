@@ -1,11 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6ddfea&height=180&section=header&text=Gustavo+Oliveira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Oliveira;I'm+22+years+old;I'm+naturally+Brazilian,+SP+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="400" width="800" src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/voyager-samurai-bebop-acoolrocket-edit.png" />
 </div>
 <hr />
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="19%">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="19%">
 
 <h3 align="center">About me</h3>
 <p align="center">Born in Brazil and having lived in Japan for 6 years, I have always been accustomed to traveling and effectively restoring balance. A dynamic graduate in Finance and Marketing Administration, I am eager to immerse myself in the professional world to enhance my skills. Throughout this life journey, I have developed a fervent passion for web development, so much so that I want to immediately apply what I have learned. Always passionate about the world of computer science, I possess the ability to work well both in a team and independently.</p>
