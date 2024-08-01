@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6ddfea&height=180&section=header&text=Gustavo+Oliveira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Oliveira;I'm+22+years+old;I'm+naturally+Brazilian,+SP+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Oliveira;I'm+23+years+old;I'm+naturally+Brazilian,+SP+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="400" width="800" src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/voyager-samurai-bebop-acoolrocket-edit.png" />
